@@ -1,3 +1,7 @@
+//
+// Created by lgian on 09/12/2022.
+//
+
 #include "lib.h"
 float array(float a[], int d){
     for(int i=0;i<d;i++){
