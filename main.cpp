@@ -7,7 +7,6 @@ int main(){
     for(int i=0;i<N;i++){
         cin>>numeri[i];
     }
-    cout<<array(numeri,N)<<endl;
+    cout<<array( numeri, N)<<endl;
     return 0;
-  return 0;
 }
